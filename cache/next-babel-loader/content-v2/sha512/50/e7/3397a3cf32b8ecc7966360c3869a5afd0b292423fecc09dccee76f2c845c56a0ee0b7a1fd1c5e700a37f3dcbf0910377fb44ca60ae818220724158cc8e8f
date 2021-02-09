@@ -1,1 +1,0 @@
-{"ast":null,"code":"import { Profiler } from \"react\";","map":{"version":3,"sources":["C:/next-project/pages/profile.js"],"names":["Profiler"],"mappings":"AAAA,SAASA,QAAT,QAAyB,OAAzB","sourcesContent":["import { Profiler } from \"react\";"]},"metadata":{},"sourceType":"module"}
